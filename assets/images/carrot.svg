@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 150">
+  <!-- Carrot -->
+  <polygon points="150,50 180,40 160,80" fill="#FF9500"/>
+  <ellipse cx="165" cy="65" rx="20" ry="25" fill="#FFA500"/>
+  
+  <!-- Leaves -->
+  <g stroke="#2D5F4F" stroke-width="2" fill="none">
+    <path d="M 140 50 Q 130 35 125 20"/>
+    <path d="M 145 48 Q 145 25 145 10"/>
+    <path d="M 150 48 Q 160 30 170 15"/>
+  </g>
+</svg>
